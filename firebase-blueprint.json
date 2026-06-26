@@ -1,0 +1,100 @@
+{
+  "collections": [
+    {
+      "collection_name": "products",
+      "document_schema": {
+        "categoryId": "string",
+        "name_tr": "string",
+        "name_ar": "string",
+        "description_tr": "string",
+        "description_ar": "string",
+        "price": "number",
+        "image": "string"
+      },
+      "seed_data": [
+        {
+          "document_id": "m1",
+          "categoryId": "meals",
+          "name_tr": "Şavurma Porsiyon (130 g)",
+          "name_ar": "وجبة شاورما عربي (130 غ)",
+          "description_tr": "Şavurma, turşu, sarımsaklı sos ve patates kızartması",
+          "description_ar": "شاورما، مخلل، صلصة ثوم وبطاطا مقلية",
+          "price": 200,
+          "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+        },
+        {
+          "document_id": "m2",
+          "categoryId": "meals",
+          "name_tr": "Şavurma (1.5 Porsiyon) (10 Dilim)",
+          "name_ar": "وجبة شاورما ونص (10 قطع)",
+          "description_tr": "Şavurma, turşu, sarımsaklı sos ve patates kızartması",
+          "description_ar": "شاورما، مخلل، صلصة ثوم وبطاطا مقلية",
+          "price": 250,
+          "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+        },
+        {
+          "document_id": "m3",
+          "categoryId": "meals",
+          "name_tr": "Kaşarlı Şavurma (Porsiyon)",
+          "name_ar": "وجبة شاورما بالجبنة",
+          "description_tr": "Kaşar peynirli şavurma, turşu, sarımsaklı sos, patates kızartması ile",
+          "description_ar": "شاورما بجبنة القشقوان، مخلل، صلصة ثوم، مع بطاطا مقلية",
+          "price": 260,
+          "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+        },
+        {
+          "document_id": "m4",
+          "categoryId": "meals",
+          "name_tr": "İtalyan Usulü Şavurma (Porsiyon)",
+          "name_ar": "وجبة شاورما إيطالي",
+          "description_tr": "8 üçgen dilim şavurma, turşu, sarımsaklı sos, patates kızartması",
+          "description_ar": "8 شرائح شاورما مثلثة، مخلل، صلصة ثوم، بطاطا مقلية",
+          "price": 300,
+          "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+        },
+        {
+          "document_id": "m5",
+          "categoryId": "meals",
+          "name_tr": "Tavuk Döner (200 g)",
+          "name_ar": "وجبة شاورما شرحات (200 غ)",
+          "description_tr": "Şavurma, turşu, sarımsaklı sos, patates kızartması",
+          "description_ar": "شاورما، مخلل، صلصة ثوم، بطاطا مقلية",
+          "price": 285,
+          "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+        },
+        {
+          "document_id": "w1",
+          "categoryId": "wraps",
+          "name_tr": "Şavurma Dürüm (100 g)",
+          "name_ar": "ساندويش شاورما (100 غ)",
+          "description_tr": "Şavurma, turşu, sarımsaklı sos",
+          "description_ar": "شاورما، مخلل، صلصة ثوم",
+          "price": 135,
+          "image": "https://images.unsplash.com/photo-1662116765993-4eb0058f4a13?w=300&h=300&fit=crop"
+        },
+        {
+          "document_id": "p1",
+          "categoryId": "pides",
+          "name_tr": "Kaşarlı Pide",
+          "name_ar": "منقوشة قشقوان سادة",
+          "description_tr": "Kaşar peyniri",
+          "description_ar": "جبنة قشقوان",
+          "price": 50,
+          "image": "https://images.unsplash.com/photo-1579697096985-41fe1430e58f?w=300&h=300&fit=crop"
+        }
+      ]
+    },
+    {
+      "collection_name": "settings",
+      "document_schema": {
+        "backgroundImage": "string"
+      },
+      "seed_data": [
+        {
+          "document_id": "general",
+          "backgroundImage": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1600&h=900&fit=crop"
+        }
+      ]
+    }
+  ]
+}

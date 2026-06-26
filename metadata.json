@@ -1,0 +1,8 @@
+{
+  "name": "Sham Al-Sharif Restaurant مع اضافات ",
+  "description": "Browse our menu, add items to your cart, and send your order directly via WhatsApp for quick service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

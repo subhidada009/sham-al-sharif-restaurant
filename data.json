@@ -1,0 +1,551 @@
+{
+  "products": [
+    {
+      "id": "m1",
+      "categoryId": "meals",
+      "name": {
+        "tr": "Şavurma Porsiyon (130 g)",
+        "ar": "وجبة شاورما عربي (130 غ)"
+      },
+      "description": {
+        "tr": "Şavurma, turşu, sarımsaklı sos ve patates kızartması",
+        "ar": "شاورما، مخلل، صلصة ثوم وبطاطا مقلية"
+      },
+      "price": 220,
+      "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "m2",
+      "categoryId": "meals",
+      "name": {
+        "tr": "Şavurma (1.5 Porsiyon) (10 Dilim)",
+        "ar": "وجبة شاورما ونص (10 قطع)"
+      },
+      "description": {
+        "tr": "Şavurma, turşu, sarımsaklı sos ve patates kızartması",
+        "ar": "شاورما، مخلل، صلصة ثوم وبطاطا مقلية"
+      },
+      "price": 270,
+      "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "m3",
+      "categoryId": "meals",
+      "name": {
+        "tr": "Kaşarlı Şavurma (Porsiyon)",
+        "ar": "وجبة شاورما بالجبنة"
+      },
+      "description": {
+        "tr": "Kaşar peynirli şavurma, turşu, sarımsaklı sos, patates kızartması ile",
+        "ar": "شاورما بجبنة القشقوان، مخلل، صلصة ثوم، مع بطاطا مقلية"
+      },
+      "price": 260,
+      "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "m4",
+      "categoryId": "meals",
+      "name": {
+        "tr": "İtalyan Usulü Şavurma (Porsiyon)",
+        "ar": "وجبة شاورما إيطالي"
+      },
+      "description": {
+        "tr": "8 üçgen dilim şavurma, turşu, sarımsaklı sos, patates kızartması",
+        "ar": "8 شرائح شاورما مثلثة، مخلل، صلصة ثوم، بطاطا مقلية"
+      },
+      "price": 310,
+      "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "m5",
+      "categoryId": "meals",
+      "name": {
+        "tr": "Tavuk Döner (200 g)",
+        "ar": "وجبة شاورما شرحات (200 غ)"
+      },
+      "description": {
+        "tr": "Şavurma, turşu, sarımsaklı sos, patates kızartması",
+        "ar": "شاورما، مخلل، صلصة ثوم، بطاطا مقلية"
+      },
+      "price": 285,
+      "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "m6",
+      "categoryId": "meals",
+      "name": {
+        "tr": "Double Şavurma (270 g)",
+        "ar": "وجبة شاورما دبل (270 غ)"
+      },
+      "description": {
+        "tr": "15 dilim şavurma, turşu, sarımsaklı sos, patates kızartması",
+        "ar": "15 شريحة شاورما، مخلل، صلصة ثوم، بطاطا مقلية"
+      },
+      "price": 370,
+      "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "w1",
+      "categoryId": "wraps",
+      "name": {
+        "tr": "Şavurma Dürüm (100 g)",
+        "ar": "ساندويش شاورما (100 غ)"
+      },
+      "description": {
+        "tr": "Şavurma, turşu, sarımsaklı sos",
+        "ar": "شاورما، مخلل، صلصة ثوم"
+      },
+      "price": 125,
+      "image": "https://images.unsplash.com/photo-1662116765993-4eb0058f4a13?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "w2",
+      "categoryId": "wraps",
+      "name": {
+        "tr": "Mega Şavurma Dürüm (130 g)",
+        "ar": "ساندويش شاورما ميغا (130 غ)"
+      },
+      "description": {
+        "tr": "Şavurma, turşu, sarımsaklı sos",
+        "ar": "شاورما، مخلل، صلصة ثوم"
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1662116765993-4eb0058f4a13?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "w3",
+      "categoryId": "wraps",
+      "name": {
+        "tr": "Kaşarlı Şavurma Dürüm (100 g)",
+        "ar": "ساندويش شاورما بالجبنة (100 غ)"
+      },
+      "description": {
+        "tr": "Şavurma, kaşar peyniri, turşu, sarımsaklı sos",
+        "ar": "شاورما، جبنة قشقوان، مخلل، صلصة ثوم"
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1662116765993-4eb0058f4a13?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "w4",
+      "categoryId": "wraps",
+      "name": {
+        "tr": "Ultra Mega Dürüm (150 g)",
+        "ar": "ساندويش الترا ميغا (150 غ)"
+      },
+      "description": {
+        "tr": "Şavurma, turşu, sarımsaklı sos ve patates kızartması",
+        "ar": "شاورما، مخلل، صلصة ثوم وبطاطا مقلية"
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1662116765993-4eb0058f4a13?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p1",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Kaşarlı Pide",
+        "ar": "منقوشة قشقوان سادة"
+      },
+      "description": {
+        "tr": "Kaşar peyniri",
+        "ar": "جبنة قشقوان"
+      },
+      "price": 50,
+      "image": "https://images.unsplash.com/photo-1579697096985-41fe1430e58f?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p2",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Sucuklu Pide",
+        "ar": "منقوشة سجق"
+      },
+      "description": {
+        "tr": "Sucuk",
+        "ar": "سجق"
+      },
+      "price": 45,
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p3",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Tavuklu Kaşarlı Pide",
+        "ar": "منقوشة دجاج وقشقوان"
+      },
+      "description": {
+        "tr": "Tavuk ve kaşar peyniri",
+        "ar": "دجاج وجبنة قشقوان"
+      },
+      "price": 65,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p4",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Salamlı Pide",
+        "ar": "منقوشة مرتديلا"
+      },
+      "description": {
+        "tr": "Salam",
+        "ar": "مرتديلا"
+      },
+      "price": 40,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p5",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Beyaz Peynirli Pide",
+        "ar": "منقوشة جبنة بيضاء (شامية)"
+      },
+      "description": {
+        "tr": "Beyaz peynir",
+        "ar": "جبنة بيضاء"
+      },
+      "price": 35,
+      "image": "https://images.unsplash.com/photo-1579697096985-41fe1430e58f?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p6",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Krem Peynirli Pide",
+        "ar": "منقوشة جبنة كيري"
+      },
+      "description": {
+        "tr": "Krem peynir",
+        "ar": "جبنة كيري (كريمية)"
+      },
+      "price": 35,
+      "image": "https://images.unsplash.com/photo-1579697096985-41fe1430e58f?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p7",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Zeytinli Pide",
+        "ar": "منقوشة زيتون"
+      },
+      "description": {
+        "tr": "Zeytin",
+        "ar": "زيتون"
+      },
+      "price": 40,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p8",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Çikolatalı Pide",
+        "ar": "منقوشة شوكولاه"
+      },
+      "description": {
+        "tr": "Çikolata",
+        "ar": "شوكولاتة"
+      },
+      "price": 40,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p9",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Salçalı Kaşarlı Pide",
+        "ar": "منقوشة محمرة وقشقوان"
+      },
+      "description": {
+        "tr": "Salça ve kaşar peyniri",
+        "ar": "محمرة وجبنة قشقوان"
+      },
+      "price": 45,
+      "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p10",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Salçalı Pide",
+        "ar": "منقوشة محمرة"
+      },
+      "description": {
+        "tr": "Salça",
+        "ar": "محمرة"
+      },
+      "price": 35,
+      "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p11",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Zahterli Kaşarlı Pide",
+        "ar": "منقوشة زعتر وقشقوان"
+      },
+      "description": {
+        "tr": "Zahter ve kaşar peyniri",
+        "ar": "زعتر وجبنة قشقوان"
+      },
+      "price": 45,
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p12",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Zahterli Salçalı Pide",
+        "ar": "منقوشة زعتر ومحمرة"
+      },
+      "description": {
+        "tr": "Zahter ve salça",
+        "ar": "زعتر ومحمرة"
+      },
+      "price": 35,
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p13",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Zahterli Pide",
+        "ar": "منقوشة زعتر"
+      },
+      "description": {
+        "tr": "Zahter",
+        "ar": "زعتر"
+      },
+      "price": 35,
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "p_corek",
+      "categoryId": "pides",
+      "name": {
+        "tr": "Çörekotlu peynirli pide",
+        "ar": "منقوشة جبنة بحبة البركة"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 40,
+      "image": "https://images.unsplash.com/photo-1579697096985-41fe1430e58f?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_sarim_bakla",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Sarımsaklı zeytin yağlı bakla",
+        "ar": "فول مدمس بالزيت والثوم"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_yog_bakla",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Yoğurtlu bakla",
+        "ar": "فول مدمس باللبن"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_zey_fateh",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Zeytin yağlı fateh",
+        "ar": "فتة بالزيت"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_yog_nohut",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Yoğurtlu nohut",
+        "ar": "مسبحة باللبن"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_zey_nohut",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Zeytin yağlı nohut",
+        "ar": "مسبحة بالزيت"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_falafel",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Falafel dürüm",
+        "ar": "ساندويش فلافل"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 110,
+      "image": "https://images.unsplash.com/photo-1593010952093-61ce39df2f6f?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_duble_falafel",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Duble falafel dürüm",
+        "ar": "ساندويش فلافل دبل"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 130,
+      "image": "https://images.unsplash.com/photo-1593010952093-61ce39df2f6f?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_humus",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Humus",
+        "ar": "حمص"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 70,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_ter_fateh",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Tereyağlı fateh",
+        "ar": "فتة بالسمنة"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "a_cer_fateh",
+      "categoryId": "appetizers",
+      "name": {
+        "tr": "Çerezli fateh",
+        "ar": "فتة بالمكسرات"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 175,
+      "image": "https://images.unsplash.com/photo-1544982503-9f984c14501a?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "m_mini",
+      "categoryId": "meals",
+      "name": {
+        "tr": "Mini dürüm porsiyon",
+        "ar": "وجبة ساندويش ميني"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 275,
+      "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "m_ekistra",
+      "categoryId": "meals",
+      "name": {
+        "tr": "Ekistra şavurma porsiyon",
+        "ar": "وجبة شاورما إكسترا"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 260,
+      "image": "https://images.unsplash.com/photo-1645366479007-063996769e5d?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "w_zurna",
+      "categoryId": "wraps",
+      "name": {
+        "tr": "Zurna Şavurma dürüm",
+        "ar": "ساندويش شاورما زورنا"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 190,
+      "image": "https://images.unsplash.com/photo-1662116765993-4eb0058f4a13?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "w_patso",
+      "categoryId": "wraps",
+      "name": {
+        "tr": "Patso",
+        "ar": "ساندويش بطاطا (باتسو)"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 100,
+      "image": "https://images.unsplash.com/photo-1662116765993-4eb0058f4a13?w=300&h=300&fit=crop"
+    },
+    {
+      "id": "w_duble",
+      "categoryId": "wraps",
+      "name": {
+        "tr": "Duble şavurma dürüm",
+        "ar": "ساندويش شاورما دبل"
+      },
+      "description": {
+        "tr": "",
+        "ar": ""
+      },
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1662116765993-4eb0058f4a13?w=300&h=300&fit=crop"
+    }
+  ],
+  "backgroundImage": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1600&h=900&fit=crop"
+}
